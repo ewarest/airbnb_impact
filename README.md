@@ -23,7 +23,7 @@ The python code can be found in a Jupyter Notebook. The analysis process is docu
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@ewarest/the-municipalities-fight-against-airbnb-9a0fe89d39dd).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
